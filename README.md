@@ -2,7 +2,7 @@
 ## A monospaced coding font with special ligatures for C#.
 
 The C# programming language uses a lot of character pairs to form special operators like two plus glyphs '++' to increment a value, two equal glyphs '==' to check for equality or the equal and greater glyph '=>' for the lambda operator.
-**Coda** combines these and a 21 further combinations to ligatures in oder to improve code readability and productivity.
+**Coda** combines these and a 21 further combinations to [ligatures](https://en.wikipedia.org/wiki/Typographic_ligature) in oder to improve code readability and productivity.
 
 But first and foremost, **Coda** has to meet a number of requirements to be a great coding font:
 + It has to be monospaced, that means, all characters have the same width.
@@ -12,24 +12,18 @@ But first and foremost, **Coda** has to meet a number of requirements to be a gr
 + Even at small font sizes like 9 point on a normal 96 dpi monitor, the font has to be sharp and crisp. 
 + And finally the overall impression should be fresh and comfortable.
 
-C# programmers usually work with Microsoft Visual Studio which comes with the Consolas font designed by [Luc(as) de Groot](https://en.wikipedia.org/wiki/Luc(as)_de_Groot). Consolas is a very sophisticated and well designed font that neary meets all of the requirements. 
+C# programmers usually work with Microsoft Visual Studio which comes with the Consolas font designed by [Luc(as) de Groot](https://en.wikipedia.org/wiki/Luc(as)_de_Groot). Consolas is a very sophisticated and exceptionally well designed font that neary meets all of the requirements. Only the distinctiveness of the numer one (1), the lowercase letter L and  the uppercase letter I is difficult at small font sizes like 9 or 10 pt.
 
-Hasklig solves the problem the way typographers have always solved ill-fitting characters which co-occur often: [ligatures](https://en.wikipedia.org/wiki/Typographic_ligature). The underlying code stays the same — only the representation changes.
+**Coda** ist based on the Abobe's open source font [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro) but strongly revised to meet the compactness and space efficiency of the Consolas.  
 
-[**Download Coda Font Family v1.4**](https://github.com/i-tu/Hasklig/releases/download/1.1/Hasklig-1.1.zip)
+[**Download Coda Font Family v1.4**](https://github.com/proeller/Coda/Coda_1.4.zip)
 
 #### Coda
-![Hasklig Sample](hasklig_example.png?raw=true)
+![Coda Sample](hasklig_example.png?raw=true)
 
 #### Consolas
-![Source Code Pro Sample](SourceCodeProSample.png?raw=true)
+![Consolas Sample](SourceCodeProSample.png?raw=true)
 
-### Release notes
-+ [v1.0](https://github.com/i-tu/Hasklig/releases/tag/1.0)
-    + Updates to the latest version of SCP
-    + Hasklig moves to a ligature substitution mechanism borrowed from the excellent [Fira Code by Nikita Prokopov](https://github.com/tonsky/FiraCode)
-#### Currently implemented symbols
-`<*` `<*>` `<+>` `<$>` `***` `<|` `|>`  `<|>` `!!` `||` `===` `==>` `<<<` `>>>` `<>` `+++` `<-` `->` `=>` `>>` `<<` `>>=` `=<<` `..` `...` `::` `-<` `>-` `-<<` `>>-` `++` `/=` `==`
 
 ### Credits
 Original idea, design and implementation of code ligatures by Ian Tuomi 2014-2015.
