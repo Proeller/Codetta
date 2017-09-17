@@ -19,12 +19,12 @@ C# programmers usually work with Microsoft Visual Studio which comes with the Co
 [**Download Coda Font Family v1.4**](https://github.com/proeller/Coda/Coda_1.4.zip)
 
 #### Coda
-![Coda Sample](hasklig_example.png?raw=true)
+![Coda Sample](coda.png?raw=true)
 
 #### Consolas
-![Consolas Sample](SourceCodeProSample.png?raw=true)
+![Consolas Sample](consolas.png?raw=true)
 
 
 ### Credits
-Original idea, design and implementation of code ligatures by Ian Tuomi 2014-2015.
-This typeface extends [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) with ligatures.
+This typeface is based on [Source Code Pro](https://github.com/adobe-fonts/source-code-pro).
+
