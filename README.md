@@ -14,11 +14,11 @@ But first and foremost, **Codetta** must meet several requirements to be a great
 
 C# programmers usually work with Microsoft Visual Studio which comes with the Consolas font designed by [Luc(as) de Groot](https://en.wikipedia.org/wiki/Luc(as)_de_Groot). Consolas is a very sophisticated and exceptionally well-designed font that nearly meets all the requirements. Only the distinctiveness of the number one (1), the lowercase letter L and the uppercase letter I is difficult at small font sizes like 9 or 10 pt.
 
+Starting point in the development of *Codetta* was Abobe's open source font [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro). The font metrics and most of the glyphs were strongly revised to meet the compactness and space efficiency of Consolas. Care was taken, that the font looks good at typically used font sizes (9 pt., 10 pt.) in Visual Studio and that the font works well with ClearType.
+
 The width of the ligatures is double the size of a regular character (triple in case of the Xml-Comment '///'). This guaranties that any code formatting is preserved when switching from a font without ligatures to *Codetta*. Nevertheless, *Codetta* can help saving space, because ligatures, which always start or terminate a clause are shifted left or right respectively, so that leading or trailing blanks can be omitted and the code is still easily readable.
 
-Of course, *Codetta* doesn't change anything in your code. Switching from a normal font like Consolas to *Codetta* just changes the visual representation of the code. When someone else opens your code without having *Codetta* installed on his machine, he sees the normal code. 
-
-Starting point in the development of *Codetta* was Abobe's open source font [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro). The font metrics and most of the glyphs were strongly revised to meet the compactness and space efficiency of Consolas. Care was taken, that the font looks good at typically used font sizes (9 pt., 10 pt.) in Visual Studio and that the font works well with ClearType.
+Of course, *Codetta* doesn't change anything in your code. Switching from a normal font like Consolas to *Codetta* just changes the visual representation of the code. When someone else opens your code without having *Codetta* installed on his machine, he sees the regular code. 
 
 [**Download Codetta Font Family v1.0**](https://github.com/proeller/Codetta/blob/master/release/Codetta_1.0.zip?raw=true)
 
