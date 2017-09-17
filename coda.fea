@@ -1,0 +1,2108 @@
+@calt_ccmp_frac = [\space \i \j \iogonek \ibar \jcurl \iogonek.a \zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr \seven.numr \eight.numr \nine.numr \parenleft.numr \parenright.numr \period.numr \comma.numr \equal \greater \gravecmb \acutecmb \circumflexcmb \tildecmb \macroncmb \overlinecmb \brevecmb \uni0306.c \dotnosp \dieresiscmb \hookcmb \ringcmb \acutedblnosp \caroncmb \dblgravecmb \breveinvnosp \cedillacmb \ogonekcmb \perispomenicomb \uni03080301 \uni03080300 \uni03080304 \uni0308030C \uni03020301 \uni03020300 \uni03020309 \uni03020303 \uni03060301 \uni03060300 \uni03060309 \uni03060303 \uni03020306 \uni03040301 \space_];
+@calt_ccmp_frac2 = [\space.frac \dotlessi \dotlessj \iogonek.d \uni0268.d \uni029D.d \iogonek.da \zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \five.dnom \six.dnom \seven.dnom \eight.dnom \nine.dnom \parenleft.dnom \parenright.dnom \period.dnom \comma.dnom \LIG \LIG \uni0300.cap \uni0301.cap \uni0302.cap \uni0303.cap \uni0304.cap \uni0305.cap \uni0306.cap \uni0306.ccap \uni0307.cap \uni0308.cap \uni0309.cap \uni030A.cap \uni030B.cap \uni030C.cap \uni030F.cap \uni0311.cap \uni0327.cap \uni0328.cap \perispomenicomb \uni03080301.cap \uni03080300.cap \uni03080304.cap \uni0308030C.cap \uni03020301.cap \uni03020300.cap \uni03020309.cap \uni03020303.cap \uni03060301.cap \uni03060300.cap \uni03060309.cap \uni03060303.cap \uni03020306.cap \uni03040301.cap \nbspace.frac];
+@case = [\uni01330301 \anoteleia \zero \one \two \three \four \five \six \seven \eight \nine \one.a \zero.onum \one.onum \two.onum \three.onum \four.onum \five.onum \six.onum \seven.onum \eight.onum \nine.onum \at \gravecmb \acutecmb \circumflexcmb \tildecmb \macroncmb \overlinecmb \brevecmb \uni0306.c \dotnosp \dieresiscmb \hookcmb \ringcmb \acutedblnosp \caroncmb \dblgravecmb \breveinvnosp \cedillacmb \ogonekcmb \perispomenicomb \uni03080301 \uni03080300 \uni03080304 \uni0308030C \uni03020301 \uni03020300 \uni03020309 \uni03020303 \uni03060301 \uni03060300 \uni03060309 \uni03060303 \uni03020306 \uni03040301];
+@case2 = [\uni01320301 \anoteleia.cap \zero.cap \one.cap \two.cap \three.cap \four.cap \five.cap \six.cap \seven.cap \eight.cap \nine.cap \one.c \zero.cap \one.cap \two.cap \three.cap \four.cap \five.cap \six.cap \seven.cap \eight.cap \nine.cap \at.case \uni0300.cap \uni0301.cap \uni0302.cap \uni0303.cap \uni0304.cap \uni0305.cap \uni0306.cap \uni0306.ccap \uni0307.cap \uni0308.cap \uni0309.cap \uni030A.cap \uni030B.cap \uni030C.cap \uni030F.cap \uni0311.cap \uni0327.cap \uni0328.cap \perispomenicomb \uni03080301.cap \uni03080300.cap \uni03080304.cap \uni0308030C.cap \uni03020301.cap \uni03020300.cap \uni03020309.cap \uni03020303.cap \uni03060301.cap \uni03060300.cap \uni03060309.cap \uni03060303.cap \uni03020306.cap \uni03040301.cap];
+@ccmp = [\gravecmb \acutecmb \circumflexcmb \tildecmb \macroncmb \overlinecmb \brevecmb \uni0306.c \dotnosp \dieresiscmb \hookcmb \ringcmb \acutedblnosp \caroncmb \dblgravecmb \breveinvnosp \cedillacmb \ogonekcmb \perispomenicomb \uni03080301 \uni03080300 \uni03080304 \uni0308030C \uni03020301 \uni03020300 \uni03020309 \uni03020303 \uni03060301 \uni03060300 \uni03060309 \uni03060303 \uni03020306 \uni03040301];
+@ccmp2 = [\acutecmb \acutedblnosp \brevecmb \caroncmb \circumflexcmb \gravecmb \ringcmb \tildecmb \uni03020300 \uni03020301 \uni03020303 \uni03020306 \uni03020309 \uni03040301 \uni0306.c \uni03060300 \uni03060301 \uni03060303 \uni03060309 \uni03080300 \uni03080301 \uni03080304 \uni0308030C \macroncmb \overlinecmb \dotnosp \dieresiscmb \dblgravecmb \breveinvnosp \perispomenicomb \hookcmb];
+@ccmp3 = [\Lslash \Zcaron \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \Scaron \OE \Ydieresis \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \AE \Ccedilla \Egrave \Eacute \Ecircumflex \Edieresis \Igrave \Iacute \Icircumflex \Idieresis \Eth \Ntilde \Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash \Ugrave \Uacute \Ucircumflex \Udieresis \Yacute \Thorn \Alpha \Beta \Chi \Epsilon \Phi \Gamma \Eta \Iota \Kappa \Lambda \Mu \Nu \Omicron \Pi \Theta \Rho \Sigma \Tau \Upsilon \Xi \Psi \Zeta \Amacron \Aogonek \Ccaron \Cacute \Zacute \Dcaron \Emacron \Edotaccent \Ecaron \Eogonek \Iogonek \Imacron \Lcaron \Lacute \Nacute \Ncaron \Ohungarumlaut \Omacron \Racute \Rcaron \Sacute \Tcaron \Umacron \Uring \Uhungarumlaut \Uogonek \Zdotaccent \Dcroat \Iotadieresis \Upsilondieresis \Alphatonos \Epsilontonos \Etatonos \Iotatonos \Omicrontonos \Upsilontonos \Omegatonos \Abreve \uni021A \Gbreve \Idotaccent \Scedilla \Ccircumflex \Cdotaccent \Ebreve \Gcircumflex \Gdotaccent \Hcircumflex \Hbar \Itilde \Ibreve \IJ \Jcircumflex \Ldot \Eng \Obreve \Scircumflex \Tbar \Utilde \Ubreve \Wcircumflex \Ycircumflex \Aringacute \AEacute \Oslashacute \Wgrave \Wacute \Wdieresis \Ygrave \Ohorn \Uhorn \Gcaron \Scommaaccent \Gcedilla \Kcedilla \Lcedilla \Ncedilla \Rcedilla \Tcedilla \Schwa \Ghook \Acaron \Icaron \Ocaron \Ucaron \Udieresismacron \Udieresisacute \Udieresiscaron \Udieresisgrave \AEmacron \Oogonek \Gacute \Ngrave \Bbar \Deltagreek \Omegagreek \c.Iegrave \Io \Dje \c.Gje \Ecyril \Dze \Icyril \Yi \Je \Lje \Nje \Tshe \Kje \c.Igrave \c.Yushort \Dzhe \c.A \Be \Ve \Ge \De \Ie \Zhe \Ze \Ii \Iibreve \Ka \El \Em \En \c.O \c.Pe \Er \Es \Te \c.U \Ef \Kha \Tse \Che \Sha \Shcha \Hard \Yeri \Soft \c.E \Iu \Ia \Yat \c.Fita \c.Izhitsa \Geupturn \Gebar \Zhertdes \Zecedilla \Kartdes \GeKarev \Enrtdes \Escedilla \Ustrt \Ustrtbar \Khartdes \Chertdes \Hcyril \Icyril1 \Zhebreve \c.Abreve \c.AE \c.Iebreve \c.Schwa \c.Imacron \c.Odieresis \c.Obar \c.Umacron \c.Udblacute \Blinebelow \Ddotbelow \Dlinebelow \Emacronacute \Gmacron \Hdotbelow \Hbrevebelow \Kdotbelow \Klinebelow \Ldotbelow \Ldotbelowmacron \Llinebelow \Macute \Mdotaccent \Mdotbelow \Ndotaccent \Ndotbelow \Nlinebelow \Omacronacute \Rdotaccent \Rdotbelow \Rdotbelowmacron \Rlinebelow \Sdotaccent \Sdotbelow \Tdotbelow \Tlinebelow \Ydotaccent \Zdotbelow \Zlinebelow \Adotbelow \Ahook \Acircumflexacute \Acircumflexgrave \Acircumflexhook \Acircumflextilde \Acircumflexdotbelow \Abreveacute \Abrevegrave \Abrevehook \Abrevetilde \Abrevedotbelow \Edotbelow \Ehook \Etilde \Ecircumflexacute \Ecircumflexgrave \Ecircumflexhook \Ecircumflextilde \Ecircumflexdotbelow \Ihook \Idotbelow \Odotbelow \Ohook \Ocircumflexacute \Ocircumflexgrave \Ocircumflexhook \Ocircumflextilde \Ocircumflexdotbelow \Ohornacute \Ohorngrave \Ohornhook \Ohorntilde \Ohorndotbelow \Udotbelow \Uhook \Uhornacute \Uhorngrave \Uhornhook \Uhorntilde \Uhorndotbelow \Ydotbelow \Yhookabove \Ytilde];
+@ccmp4 = [\uni0300.cap \uni0301.cap \uni0302.cap \uni03020300.cap \uni03020301.cap \uni03020303.cap \uni03020306.cap \uni03020309.cap \uni0303.cap \uni0304.cap \uni03040301.cap \uni0305.cap \uni0306.cap \uni0306.ccap \uni03060300.cap \uni03060301.cap \uni03060303.cap \uni03060309.cap \uni0307.cap \uni0308.cap \uni03080300.cap \uni03080301.cap \uni03080304.cap \uni0308030C.cap \uni0309.cap \uni030A.cap \uni030B.cap \uni030C.cap \uni030F.cap \uni0311.cap \uni0327.cap \uni0328.cap \perispomenicomb];
+@ccmp5 = [\lslash \b \d \f \h \i \j \k \l \t \eth \thorn \dcroat \ij \tbar \longs \bbar \pipedblbar \bhook \dtail \dhook \ghook \hhook \henghook \ibar \lwavybar \lbelt \lrthook \lezh \phiLatin \rturnascend \esh \eshbar \trthook \yturn \glottal \glottalreversed \bilabialclick \jcurl \glottalbar \glottalstopbarrev \dezh \ts \tesh];
+@ccmp6 = [\g \j \p \q \y \thorn \ij \eng \pipedblbar \dtail \fturned \ghook \gscript \gamma1 \hturn \henghook \lrthook \lezh \mturndescend \mhook \nhookleft \nrthook \phiLatin \rhookturned \rhook \shook \esh \eshbar \trthook \zrthook \ezh \jcurl \kturn \dezh \tesh];
+@cv01_salt_ss02 = [\a \agrave \aacute \acircumflex \atilde \adieresis \amacron \abreve \aring \aringacute \acaron \aogonek \adotbelow \ahook \acircumflexacute \acircumflexgrave \acircumflexhook \acircumflextilde \acircumflexdotbelow \abreveacute \abrevegrave \abrevehook \abrevetilde \abrevedotbelow \c.a \c.abreve \ordfeminine];
+@cv01_salt_ss022 = [\a.a \agrave.a \aacute.a \acircumflex.a \atilde.a \adieresis.a \amacron.a \abreve.a \aring.a \aringacute.a \uni01CE.a \aogonek.a \uni1EA1.a \uni1EA3.a \uni1EA5.a \uni1EA7.a \uni1EA9.a \uni1EAB.a \uni1EAD.a \uni1EAF.a \uni1EB1.a \uni1EB3.a \uni1EB5.a \uni1EB7.a \uni0430.a \uni04D1.a \ordfeminine.a];
+@cv02_salt_ss03 = [\g \gcircumflex \gbreve \gdotaccent \gcedilla \gcaron \gmacron];
+@cv02_salt_ss032 = [\g.a \gcircumflex.a \gbreve.a \gdotaccent.a \uni0123.a \gcaron.a \uni1E21.a];
+@cv04_salt_ss04 = [\i \l \igrave \iacute \icircumflex \itilde \idieresis \imacron \icaron \iogonek \ihook \idotbelow \ibreve \dotlessi \lacute \lcaron \lcedilla \ldotbelow \ldotbelowmacron \llinebelow \lslash \ldot \uni006C00B7006C \ibar \lwavybar \lbelt \iogonek.d \uni0268.d \c.iUkr];
+@cv04_salt_ss042 = [\i.a \l.a \igrave.a \iacute.a \icircumflex.a \itilde.a \idieresis.a \imacron.a \uni01D0.a \iogonek.a \uni1EC9.a \uni1ECB.a \uni012D.a \dotlessi.a \lacute.a \lcaron.a \uni013C.a \uni1E37.a \uni1E39.a \uni1E3B.a \lslash.a \ldot.a \uni006C00B7006C.a \uni0268.a \uni026B.a \uni026C.a \iogonek.da \uni0268.da \uni0456.a];
+@dnom = [\zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \five.dnom \six.dnom \seven.dnom \eight.dnom \nine.dnom \one.dnom \period.dnom \comma.dnom \parenleft.dnom \parenright.dnom];
+@dnom_frac_numr_sinf_subs_sups = [\zero \one \two \three \four \five \six \seven \eight \nine \one.a \period \comma \parenleft \parenright];
+@frac = [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr \seven.numr \eight.numr \nine.numr \parenleft.numr \parenright.numr \period.numr \comma.numr];
+@frac2 = [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr \seven.numr \eight.numr \nine.numr];
+@frac3 = [\fraction \zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \five.dnom \six.dnom \seven.dnom \eight.dnom \nine.dnom \comma.dnom \parenleft.dnom \parenright.dnom \period.dnom \slash.frac \slashmath];
+@frac4 = [\zero.dnom \one.dnom \two.dnom \three.dnom \four.dnom \five.dnom \six.dnom \seven.dnom \eight.dnom \nine.dnom];
+@frac_numr = [\zero.numr \one.numr \two.numr \three.numr \four.numr \five.numr \six.numr \seven.numr \eight.numr \nine.numr \one.numr \period.numr \comma.numr \parenleft.numr \parenright.numr];
+@mark = [\acutecmb \acutedblnosp \brevecmb \caroncmb \cedillacmb \circumflexcmb \commasubnosp \dotdblsubnosp \dotsubnosp \gravecmb \ogonekcmb \ringcmb \ringsubnosp \tildecmb \uni0300.cap \uni0300.g \uni0301.cap \uni0301.g \uni0302.cap \uni0303.cap \uni0304.cap \uni0305.cap \uni0306.c \uni0306.cap \uni0306.ccap \uni0307.cap \uni0308.cap \uni03080300.g \uni03080301.g \uni0309.cap \uni030A.cap \uni030B.cap \uni030C.cap \uni030F.cap \uni0310.cap \uni0311.cap \uni0312.g \uni0313.g \uni0326.a \uni0327.cap \uni0328.cap \uni0342.cap \macroncmb \overlinecmb \dotnosp \dieresiscmb \dblgravecmb \candrabinducmb \breveinvnosp \commaturnsupnosp \commaabovecmb \tackleftsubnosp \tackrightsubnosp \anglesupnosp \horncmb \ringlefthalfsubnosp \tackupsubnosp \tackdownsubnosp \plussubnosp \minussubnosp \vlinebelowcomb \bridgesubnosp \haceksubnosp \brevesubnosp \breveinvsubnosp \tildesubnosp \macronsubnosp \wavybarcomb \ringrighthalfsubnosp \bridgeinvsubnosp \squaresubnosp \seagullsubnosp \xsupnosp \perispomenicomb \iotasubnosp \bom \hookcmb];
+@onum = [\zero \one \two \three \four \five \six \seven \eight \nine \one.a];
+@onum2 = [\zero.onum \one.onum \two.onum \three.onum \four.onum \five.onum \six.onum \seven.onum \eight.onum \nine.onum \one.b];
+@ordn_sups = [\a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \egrave \eacute];
+@ordn_sups2 = [\a.sups \b.sups \c.sups \d.sups \e.sups \f.sups \g.sups \h.sups \i.sups \j.sups \k.sups \l.sups \m.sups \n.sups \o.sups \p.sups \q.sups \r.sups \s.sups \t.sups \u.sups \v.sups \w.sups \x.sups \y.sups \z.sups \egrave.sups \eacute.sups];
+@sinf_subs = [\zero.sups \one.sups \two.sups \three.sups \four.sups \five.sups \six.sups \seven.sups \eight.sups \nine.sups \one.sups \period.subs \comma.subs \parenleft.sups \parenright.sups];
+@sups = [\zero.sups \one.sups \two.sups \three.sups \four.sups \five.sups \six.sups \seven.sups \eight.sups \nine.sups \one.sups \period.sups \comma.sups \parenleft.sups \parenright.sups];
+###
+# OpenType Layout feature definitions
+# Format: Adobe FDK for OpenType (AFDKO) version 2.5
+# Generated on: 2017-7-27 10:1
+# Generated by: Fontlab.sups
+# Tool options: fea-inline-lookups: yes, fea-inline-classes: 0, fea-additional-tables: yes, fea-table-overrides: no
+#
+# Totals:
+# Languagesystems: 10
+# GSUB lookups: 104
+# GSUB features: 35 (calt, case, ccmp, cv01, cv02, cv04, cv06, cv07, cv08, cv09, cv10, cv11, cv12, cv14, cv15, cv16, cv17, dnom, frac, locl, numr, onum, ordn, salt, sinf, ss01, ss02, ss03, ss04, ss05, ss06, ss07, subs, sups, zero)
+# GPOS lookups: 12
+# GPOS features: 4 (ccmp, frac, mark, mkmk)
+
+#
+# Languagesystem definitions
+#
+
+languagesystem DFLT dflt; # Default default
+languagesystem latn dflt; # Latin default
+languagesystem latn ATH ; # Latin Athapaskan
+languagesystem latn NSM ; # Latin Northern Sami
+languagesystem latn SKS ; # Latin Skolt Sami
+languagesystem cyrl dflt; # Cyrillic default
+languagesystem cyrl SRB ; # Cyrillic Serbian
+languagesystem grek dflt; # Greek default
+languagesystem zinh dflt;
+languagesystem zyyy dflt;
+
+#
+# Lookup definitions
+#
+
+  lookup calt_ccmp_frac_1 {
+    # GSUB lookup 76, type 11 (Single)
+ sub @calt_ccmp_frac  by @calt_ccmp_frac2 ;
+  } calt_ccmp_frac_1;
+
+  lookup cv01_salt_ss02_1 {
+    # GSUB lookup 1, type 11 (Single)
+ sub @cv01_salt_ss02  by @cv01_salt_ss022 ;
+  } cv01_salt_ss02_1;
+
+  lookup cv02_salt_ss03_1 {
+    # GSUB lookup 2, type 11 (Single)
+ sub @cv02_salt_ss03  by @cv02_salt_ss032 ;
+  } cv02_salt_ss03_1;
+
+  lookup cv04_salt_ss04_1 {
+    # GSUB lookup 3, type 11 (Single)
+ sub @cv04_salt_ss04  by @cv04_salt_ss042 ;
+  } cv04_salt_ss04_1;
+
+  lookup cv06_locl_latn_salt_ss05_1 {
+    # GSUB lookup 4, type 11 (Single)
+ sub \Eng by \uni014A.a;
+  } cv06_locl_latn_salt_ss05_1;
+
+  lookup cv07_salt_ss02_1 {
+    # GSUB lookup 5, type 11 (Single)
+ sub \beta by \beta1;
+  } cv07_salt_ss02_1;
+
+  lookup cv08_salt_ss03_1 {
+    # GSUB lookup 6, type 11 (Single)
+ sub \theta by \theta1;
+  } cv08_salt_ss03_1;
+
+  lookup cv09_salt_ss05_1 {
+    # GSUB lookup 7, type 11 (Single)
+ sub \phi by \phi.a;
+  } cv09_salt_ss05_1;
+
+  lookup cv11_locl_cyrl_1 {
+    # GSUB lookup 8, type 11 (Single)
+ sub [\brevecmb \uni0306.cap] by [\uni0306.c \uni0306.ccap];
+  } cv11_locl_cyrl_1;
+
+  lookup cv10_locl_cyrlSRB_ss03_1 {
+    # GSUB lookup 9, type 11 (Single)
+ sub \be by \uni0431.srb;
+  } cv10_locl_cyrlSRB_ss03_1;
+
+  lookup cv12_salt_zero_1 {
+    # GSUB lookup 10, type 11 (Single)
+ sub [\zero \zero.onum \zero.cap] by [\zero.a \zero.b \zero.c];
+  } cv12_salt_zero_1;
+
+  lookup cv14_salt_ss01_1 {
+    # GSUB lookup 11, type 11 (Single)
+ sub [\hyphen \dash \hyphen1] by [\hyphen.a \uni00AD.a \uni2010.a];
+  } cv14_salt_ss01_1;
+
+  lookup cv15_salt_ss01_1 {
+    # GSUB lookup 12, type 11 (Single)
+ sub \asterisk by \asterisk.a;
+  } cv15_salt_ss01_1;
+
+  lookup cv16_salt_ss06_1 {
+    # GSUB lookup 13, type 11 (Single)
+ sub \dollar by \dollar.a;
+  } cv16_salt_ss06_1;
+
+  lookup frac_numr_1 {
+    # GSUB lookup 22, type 11 (Single)
+ sub @dnom_frac_numr_sinf_subs_sups  by @frac_numr ;
+  } frac_numr_1;
+
+  lookup ordn_sups_1 {
+    # GSUB lookup 27, type 11 (Single)
+ sub @ordn_sups  by @ordn_sups2 ;
+  } ordn_sups_1;
+
+  lookup sinf_subs_1 {
+    # GSUB lookup 30, type 11 (Single)
+ sub @dnom_frac_numr_sinf_subs_sups  by @sinf_subs ;
+  } sinf_subs_1;
+
+  lookup salt_ss07_1 {
+    # GSUB lookup 33, type 11 (Single)
+ sub [\one \one.onum \one.cap] by [\one.a \one.b \one.c];
+  } salt_ss07_1;
+
+
+#
+# Feature definitions
+#
+
+
+
+
+
+
+
+feature cv01 {
+# GSUB
+# Lookups: 1
+
+      lookup cv01_salt_ss02_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv01;
+feature salt {
+# GSUB feature: Stylistic Alternates
+# Lookups: 12
+
+      lookup cv01_salt_ss02_1;
+      lookup cv02_salt_ss03_1;
+      lookup cv04_salt_ss04_1;
+      lookup cv06_locl_latn_salt_ss05_1;
+      lookup cv07_salt_ss02_1;
+      lookup cv08_salt_ss03_1;
+      lookup cv09_salt_ss05_1;
+      lookup cv12_salt_zero_1;
+      lookup cv14_salt_ss01_1;
+      lookup cv15_salt_ss01_1;
+      lookup cv16_salt_ss06_1;
+      lookup salt_ss07_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} salt;
+feature ss02 {
+# GSUB feature: Stylistic Set 2
+# Lookups: 2
+
+      lookup cv01_salt_ss02_1;
+      lookup cv07_salt_ss02_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} ss02;
+feature cv02 {
+# GSUB
+# Lookups: 1
+
+      lookup cv02_salt_ss03_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv02;
+feature ss03 {
+# GSUB feature: Stylistic Set 3
+# Lookups: 3
+
+      lookup cv02_salt_ss03_1;
+      lookup cv08_salt_ss03_1;
+      lookup cv10_locl_cyrlSRB_ss03_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} ss03;
+feature cv04 {
+# GSUB
+# Lookups: 1
+
+      lookup cv04_salt_ss04_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv04;
+feature ss04 {
+# GSUB feature: Stylistic Set 4
+# Lookups: 1
+
+      lookup cv04_salt_ss04_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} ss04;
+feature cv06 {
+# GSUB
+# Lookups: 1
+
+      lookup cv06_locl_latn_salt_ss05_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv06;
+feature ss05 {
+# GSUB feature: Stylistic Set 5
+# Lookups: 2
+
+      lookup cv06_locl_latn_salt_ss05_1;
+      lookup cv09_salt_ss05_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} ss05;
+feature locl {
+# GSUB feature: Localized Forms
+# Lookups: 5
+
+  script latn; # Latin
+    language NSM ; # Northern Sami
+      lookup cv06_locl_latn_salt_ss05_1;
+    language SKS ; # Skolt Sami
+      lookup cv06_locl_latn_salt_ss05_1;
+  script cyrl; # Cyrillic
+      lookup cv11_locl_cyrl_1;
+    language SRB ; # Serbian
+      lookup cv10_locl_cyrlSRB_ss03_1;
+  script grek; # Greek
+ sub [\gravecmb \acutecmb \commaturnsupnosp \commaabovecmb] by [\uni0300.g \uni0301.g \uni0312.g \uni0313.g];
+} locl;
+feature cv07 {
+# GSUB
+# Lookups: 1
+
+      lookup cv07_salt_ss02_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv07;
+feature cv08 {
+# GSUB
+# Lookups: 1
+
+      lookup cv08_salt_ss03_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv08;
+feature cv09 {
+# GSUB
+# Lookups: 1
+
+      lookup cv09_salt_ss05_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv09;
+feature cv11 {
+# GSUB
+# Lookups: 1
+
+      lookup cv11_locl_cyrl_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv11;
+feature cv10 {
+# GSUB
+# Lookups: 1
+
+      lookup cv10_locl_cyrlSRB_ss03_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv10;
+feature cv12 {
+# GSUB
+# Lookups: 1
+
+      lookup cv12_salt_zero_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv12;
+feature zero {
+# GSUB feature: Slashed Zero
+# Lookups: 1
+
+      lookup cv12_salt_zero_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} zero;
+feature cv14 {
+# GSUB
+# Lookups: 1
+
+      lookup cv14_salt_ss01_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv14;
+feature ss01 {
+# GSUB feature: Stylistic Set 1
+# Lookups: 2
+
+      lookup cv14_salt_ss01_1;
+      lookup cv15_salt_ss01_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} ss01;
+feature cv15 {
+# GSUB
+# Lookups: 1
+
+      lookup cv15_salt_ss01_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv15;
+feature cv16 {
+# GSUB
+# Lookups: 1
+
+      lookup cv16_salt_ss06_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv16;
+feature ss06 {
+# GSUB feature: Stylistic Set 6
+# Lookups: 1
+
+      lookup cv16_salt_ss06_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} ss06;
+feature cv17 {
+# GSUB
+# Lookups: 1
+
+ sub \one by \one.a;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} cv17;
+feature numr {
+# GSUB feature: Numerators
+# Lookups: 1
+
+      lookup frac_numr_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} numr;
+feature mark {
+# GPOS feature: Mark Positioning
+# Lookups: 8
+
+ pos [\dblwidemacronbelowcomb \breveinverteddoublecmb] <-300 0 -600 0>;
+ subtable;
+ pos @mark  -600;
+ subtable;
+      markClass \gravecmb <anchor 300 507> @t.gravecmb;
+      markClass \uni0300.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni0300.g <anchor 300 507> @t.gravecmb;
+      markClass \acutecmb <anchor 300 507> @t.gravecmb;
+      markClass \uni0301.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni0301.g <anchor 300 507> @t.gravecmb;
+      markClass \circumflexcmb <anchor 300 507> @t.gravecmb;
+      markClass \uni0302.cap <anchor 300 676> @t.gravecmb;
+      markClass \tildecmb <anchor 300 507> @t.gravecmb;
+      markClass \uni0303.cap <anchor 300 676> @t.gravecmb;
+      markClass \macroncmb <anchor 300 507> @t.gravecmb;
+      markClass \uni0304.cap <anchor 300 676> @t.gravecmb;
+      markClass \overlinecmb <anchor 300 507> @t.gravecmb;
+      markClass \uni0305.cap <anchor 300 676> @t.gravecmb;
+      markClass \brevecmb <anchor 300 507> @t.gravecmb;
+      markClass \uni0306.c <anchor 300 507> @t.gravecmb;
+      markClass \uni0306.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni0306.ccap <anchor 300 676> @t.gravecmb;
+      markClass \dotnosp <anchor 300 507> @t.gravecmb;
+      markClass \uni0307.cap <anchor 300 676> @t.gravecmb;
+      markClass \dieresiscmb <anchor 300 507> @t.gravecmb;
+      markClass \uni0308.cap <anchor 300 676> @t.gravecmb;
+      markClass \hookcmb <anchor 300 507> @t.gravecmb;
+      markClass \uni0309.cap <anchor 300 676> @t.gravecmb;
+      markClass \candrabinducmb <anchor 300 507> @t.gravecmb;
+      markClass \uni0310.cap <anchor 300 676> @t.gravecmb;
+      markClass \ringcmb <anchor 300 507> @t.gravecmb;
+      markClass \uni030A.cap <anchor 300 676> @t.gravecmb;
+      markClass \acutedblnosp <anchor 300 507> @t.gravecmb;
+      markClass \uni030B.cap <anchor 300 676> @t.gravecmb;
+      markClass \caroncmb <anchor 300 507> @t.gravecmb;
+      markClass \uni030C.cap <anchor 300 676> @t.gravecmb;
+      markClass \dblgravecmb <anchor 300 507> @t.gravecmb;
+      markClass \uni030F.cap <anchor 300 676> @t.gravecmb;
+      markClass \breveinvnosp <anchor 300 507> @t.gravecmb;
+      markClass \uni0311.cap <anchor 300 676> @t.gravecmb;
+      markClass \commaturnsupnosp <anchor 300 507> @t.gravecmb;
+      markClass \uni0312.g <anchor 300 507> @t.gravecmb;
+      markClass \commaabovecmb <anchor 300 507> @t.gravecmb;
+      markClass \uni0313.g <anchor 300 507> @t.gravecmb;
+      markClass \uni0326.a <anchor 300 507> @t.gravecmb;
+      markClass \xsupnosp <anchor 300 507> @t.gravecmb;
+      markClass \perispomenicomb <anchor 300 507> @t.gravecmb;
+      markClass \uni0342.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03080301 <anchor 300 507> @t.gravecmb;
+      markClass \uni03080301.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03080301.g <anchor 300 507> @t.gravecmb;
+      markClass \uni03080300 <anchor 300 507> @t.gravecmb;
+      markClass \uni03080300.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03080300.g <anchor 300 507> @t.gravecmb;
+      markClass \uni03080303 <anchor 300 507> @t.gravecmb;
+      markClass \uni03080304 <anchor 300 507> @t.gravecmb;
+      markClass \uni03080304.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni0308030C <anchor 300 507> @t.gravecmb;
+      markClass \uni0308030C.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03020301 <anchor 300 507> @t.gravecmb;
+      markClass \uni03020301.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03020300 <anchor 300 507> @t.gravecmb;
+      markClass \uni03020300.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03020309 <anchor 300 507> @t.gravecmb;
+      markClass \uni03020309.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03020303 <anchor 300 507> @t.gravecmb;
+      markClass \uni03020303.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03060301 <anchor 300 507> @t.gravecmb;
+      markClass \uni03060301.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03060300 <anchor 300 507> @t.gravecmb;
+      markClass \uni03060300.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03060309 <anchor 300 507> @t.gravecmb;
+      markClass \uni03060309.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03060303 <anchor 300 507> @t.gravecmb;
+      markClass \uni03060303.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03020306 <anchor 300 507> @t.gravecmb;
+      markClass \uni03020306.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03040301 <anchor 300 507> @t.gravecmb;
+      markClass \uni03040301.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni030C0307 <anchor 300 507> @t.gravecmb;
+      markClass \uni030C0307.cap <anchor 300 676> @t.gravecmb;
+      markClass \uni03120301 <anchor 300 507> @t.gravecmb;
+      markClass \uni03120300 <anchor 300 507> @t.gravecmb;
+      markClass \uni03120303 <anchor 300 507> @t.gravecmb;
+      markClass \uni03130301 <anchor 300 507> @t.gravecmb;
+      markClass \uni03130300 <anchor 300 507> @t.gravecmb;
+      markClass \uni03130303 <anchor 300 507> @t.gravecmb;
+      pos base \A
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \B
+          <anchor 301 676> mark @t.gravecmb;
+      pos base \C
+          <anchor 346 676> mark @t.gravecmb;
+      pos base \D
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \E
+          <anchor 331 676> mark @t.gravecmb;
+      pos base \F
+          <anchor 342 676> mark @t.gravecmb;
+      pos base \G
+          <anchor 330 676> mark @t.gravecmb;
+      pos base \H
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \I
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \J
+          <anchor 324 676> mark @t.gravecmb;
+      pos base \K
+          <anchor 326 676> mark @t.gravecmb;
+      pos base \L
+          <anchor 189 676> mark @t.gravecmb;
+      pos base \M
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \N
+          <anchor 310 676> mark @t.gravecmb;
+      pos base \O
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \P
+          <anchor 320 676> mark @t.gravecmb;
+      pos base \Q
+          <anchor 302 685> mark @t.gravecmb;
+      pos base \R
+          <anchor 304 676> mark @t.gravecmb;
+      pos base \S
+          <anchor 316 676> mark @t.gravecmb;
+      pos base \T
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \U
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \V
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \W
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \X
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Y
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Z
+          <anchor 317 676> mark @t.gravecmb;
+      pos base \a
+          <anchor 320 507> mark @t.gravecmb;
+      pos base \b
+          <anchor 137 736> mark @t.gravecmb;
+      pos base \c
+          <anchor 346 507> mark @t.gravecmb;
+      pos base \d
+          <anchor 459 736> mark @t.gravecmb;
+      pos base \e
+          <anchor 316 507> mark @t.gravecmb;
+      pos base \f
+          <anchor 420 736> mark @t.gravecmb;
+      pos base \g
+          <anchor 307 507> mark @t.gravecmb;
+      pos base \h
+          <anchor 131 736> mark @t.gravecmb;
+      pos base \i
+          <anchor 348 738> mark @t.gravecmb;
+      pos base \j
+          <anchor 348 738> mark @t.gravecmb;
+      pos base \k
+          <anchor 178 736> mark @t.gravecmb;
+      pos base \l
+          <anchor 285 736> mark @t.gravecmb;
+      pos base \m
+          <anchor 315 508> mark @t.gravecmb;
+      pos base \n
+          <anchor 318 507> mark @t.gravecmb;
+      pos base \o
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \p
+          <anchor 321 507> mark @t.gravecmb;
+      pos base \q
+          <anchor 304 507> mark @t.gravecmb;
+      pos base \r
+          <anchor 356 507> mark @t.gravecmb;
+      pos base \s
+          <anchor 303 507> mark @t.gravecmb;
+      pos base \t
+          <anchor 256 643> mark @t.gravecmb;
+      pos base \u
+          <anchor 295 507> mark @t.gravecmb;
+      pos base \v
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \w
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \x
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \y
+          <anchor 304 507> mark @t.gravecmb;
+      pos base \z
+          <anchor 322 507> mark @t.gravecmb;
+      pos base \Aogonek
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \AE
+          <anchor 420 676> mark @t.gravecmb;
+      pos base \Dcroat
+          <anchor 299 676> mark @t.gravecmb;
+      pos base \Eogonek
+          <anchor 331 676> mark @t.gravecmb;
+      pos base \Iogonek
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Lslash
+          <anchor 189 676> mark @t.gravecmb;
+      pos base \Oogonek
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Ohorn
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Oslash
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \OE
+          <anchor 383 676> mark @t.gravecmb;
+      pos base \Tbar
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Uogonek
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Uhorn
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Eth
+          <anchor 299 676> mark @t.gravecmb;
+      pos base \Schwa
+          <anchor 317 676> mark @t.gravecmb;
+      pos base \Eng
+          <anchor 322 676> mark @t.gravecmb;
+      pos base \aogonek
+          <anchor 320 507> mark @t.gravecmb;
+      pos base \ae
+          <anchor 316 507> mark @t.gravecmb;
+      pos base \dcroat
+          <anchor 459 736> mark @t.gravecmb;
+      pos base \eogonek
+          <anchor 314 507> mark @t.gravecmb;
+      pos base \iogonek
+          <anchor 348 738> mark @t.gravecmb;
+      pos base \dotlessi
+          <anchor 348 507> mark @t.gravecmb;
+      pos base \lslash
+          <anchor 285 736> mark @t.gravecmb;
+      pos base \oogonek
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \ohorn
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \oslash
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \oe
+          <anchor 318 507> mark @t.gravecmb;
+      pos base \tbar
+          <anchor 256 643> mark @t.gravecmb;
+      pos base \uogonek
+          <anchor 295 507> mark @t.gravecmb;
+      pos base \uhorn
+          <anchor 295 507> mark @t.gravecmb;
+      pos base \eth
+          <anchor 330 736> mark @t.gravecmb;
+      pos base \thorn
+          <anchor 137 736> mark @t.gravecmb;
+      pos base \eng
+          <anchor 318 507> mark @t.gravecmb;
+      pos base \dotlessj
+          <anchor 348 507> mark @t.gravecmb;
+      pos base \aturn
+          <anchor 324 507> mark @t.gravecmb;
+      pos base \ascriptturn
+          <anchor 319 507> mark @t.gravecmb;
+      pos base \bhook
+          <anchor 293 736> mark @t.gravecmb;
+      pos base \cturn
+          <anchor 290 507> mark @t.gravecmb;
+      pos base \ccurl
+          <anchor 340 507> mark @t.gravecmb;
+      pos base \dtail
+          <anchor 352 736> mark @t.gravecmb;
+      pos base \dhook
+          <anchor 366 736> mark @t.gravecmb;
+      pos base \erev
+          <anchor 307 507> mark @t.gravecmb;
+      pos base \ascript
+          <anchor 304 507> mark @t.gravecmb;
+      pos base \Bsmallcap
+          <anchor 320 507> mark @t.gravecmb;
+      pos base \schwa
+          <anchor 310 507> mark @t.gravecmb;
+      pos base \schwahook
+          <anchor 229 507> mark @t.gravecmb;
+      pos base \eopen
+          <anchor 330 507> mark @t.gravecmb;
+      pos base \epsilon1rev
+          <anchor 301 507> mark @t.gravecmb;
+      pos base \epsilon1revclosed
+          <anchor 320 507> mark @t.gravecmb;
+      pos base \fturned
+          <anchor 348 507> mark @t.gravecmb;
+      pos base \ghook
+          <anchor 304 507> mark @t.gravecmb;
+      pos base \gscript
+          <anchor 310 507> mark @t.gravecmb;
+      pos base \Gsmall
+          <anchor 334 507> mark @t.gravecmb;
+      pos base \gamma1
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \ramshorn
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \hturn
+          <anchor 291 507> mark @t.gravecmb;
+      pos base \hhook
+          <anchor 271 736> mark @t.gravecmb;
+      pos base \henghook
+          <anchor 271 736> mark @t.gravecmb;
+      pos base \Hsmall
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \ibar
+          <anchor 348 738> mark @t.gravecmb;
+      pos base \Ismall
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \kturn
+          <anchor 284 507> mark @t.gravecmb;
+      pos base \lwavybar
+          <anchor 285 736> mark @t.gravecmb;
+      pos base \lbelt
+          <anchor 285 736> mark @t.gravecmb;
+      pos base \lrthook
+          <anchor 285 736> mark @t.gravecmb;
+      pos base \lezh
+          <anchor 123 736> mark @t.gravecmb;
+      pos base \Lsmall
+          <anchor 191 507> mark @t.gravecmb;
+      pos base \mturn
+          <anchor 294 508> mark @t.gravecmb;
+      pos base \mturndescend
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \mhook
+          <anchor 304 507> mark @t.gravecmb;
+      pos base \nhookleft
+          <anchor 327 507> mark @t.gravecmb;
+      pos base \nrthook
+          <anchor 324 507> mark @t.gravecmb;
+      pos base \Nsmallcap
+          <anchor 309 507> mark @t.gravecmb;
+      pos base \obar
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \Oesmall
+          <anchor 354 507> mark @t.gravecmb;
+      pos base \phiLatin
+          <anchor 300 736> mark @t.gravecmb;
+      pos base \rturn
+          <anchor 410 507> mark @t.gravecmb;
+      pos base \rturnascend
+          <anchor 410 736> mark @t.gravecmb;
+      pos base \rhookturned
+          <anchor 326 507> mark @t.gravecmb;
+      pos base \rhook
+          <anchor 356 507> mark @t.gravecmb;
+      pos base \rfishhook
+          <anchor 356 507> mark @t.gravecmb;
+      pos base \Rsmallcap
+          <anchor 316 507> mark @t.gravecmb;
+      pos base \Rsmallcapinv
+          <anchor 290 507> mark @t.gravecmb;
+      pos base \shook
+          <anchor 303 507> mark @t.gravecmb;
+      pos base \esh
+          <anchor 362 736> mark @t.gravecmb;
+      pos base \eshbar
+          <anchor 362 736> mark @t.gravecmb;
+      pos base \tturn
+          <anchor 235 507> mark @t.gravecmb;
+      pos base \trthook
+          <anchor 253 643> mark @t.gravecmb;
+      pos base \ubar
+          <anchor 295 507> mark @t.gravecmb;
+      pos base \upsilonLatin
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \vhook
+          <anchor 303 507> mark @t.gravecmb;
+      pos base \vturn
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \wturn
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \yturn
+          <anchor 397 736> mark @t.gravecmb;
+      pos base \Ysmallcap
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \zrthook
+          <anchor 320 507> mark @t.gravecmb;
+      pos base \zcurl
+          <anchor 311 507> mark @t.gravecmb;
+      pos base \ezh
+          <anchor 304 507> mark @t.gravecmb;
+      pos base \dezh
+          <anchor 280 730> mark @t.gravecmb;
+      pos base \ts
+          <anchor 330 643> mark @t.gravecmb;
+      pos base \tesh
+          <anchor 293 730> mark @t.gravecmb;
+      pos base \glottal
+          <anchor 300 736> mark @t.gravecmb;
+      pos base \glottalreversed
+          <anchor 306 736> mark @t.gravecmb;
+      pos base \glottalbar
+          <anchor 300 736> mark @t.gravecmb;
+      pos base \glottalstopbarrev
+          <anchor 306 736> mark @t.gravecmb;
+      pos base \uni014A.a
+          <anchor 310 676> mark @t.gravecmb;
+      pos base \a.a
+          <anchor 304 507> mark @t.gravecmb;
+      pos base \aogonek.a
+          <anchor 306 507> mark @t.gravecmb;
+      pos base \g.a
+          <anchor 310 507> mark @t.gravecmb;
+      pos base \i.a
+          <anchor 328 738> mark @t.gravecmb;
+      pos base \dotlessi.a
+          <anchor 328 507> mark @t.gravecmb;
+      pos base \iogonek.a
+          <anchor 328 738> mark @t.gravecmb;
+      pos base \uni0268.a
+          <anchor 328 738> mark @t.gravecmb;
+      pos base \iogonek.d
+          <anchor 348 507> mark @t.gravecmb;
+      pos base \iogonek.da
+          <anchor 328 520> mark @t.gravecmb;
+      pos base \uni0268.d
+          <anchor 348 507> mark @t.gravecmb;
+      pos base \uni0268.da
+          <anchor 328 507> mark @t.gravecmb;
+      pos base \uni029D.d
+          <anchor 348 507> mark @t.gravecmb;
+      pos base \l.a
+          <anchor 334 736> mark @t.gravecmb;
+      pos base \lslash.a
+          <anchor 334 736> mark @t.gravecmb;
+      pos base \uni026B.a
+          <anchor 334 736> mark @t.gravecmb;
+      pos base \uni026C.a
+          <anchor 334 736> mark @t.gravecmb;
+      pos base \Alpha
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Epsilon
+          <anchor 331 676> mark @t.gravecmb;
+      pos base \Eta
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Iota
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Omicron
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Rho
+          <anchor 320 676> mark @t.gravecmb;
+      pos base \Upsilon
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Omegagreek
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \alpha
+          <anchor 324 507> mark @t.gravecmb;
+      pos base \epsilon
+          <anchor 336 507> mark @t.gravecmb;
+      pos base \eta
+          <anchor 326 507> mark @t.gravecmb;
+      pos base \iota
+          <anchor 282 507> mark @t.gravecmb;
+      pos base \omicron
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \rho
+          <anchor 336 507> mark @t.gravecmb;
+      pos base \upsilon
+          <anchor 296 507> mark @t.gravecmb;
+      pos base \omega
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \c.A
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Ie
+          <anchor 331 676> mark @t.gravecmb;
+      pos base \Zhe
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Ze
+          <anchor 314 676> mark @t.gravecmb;
+      pos base \Ii
+          <anchor 304 676> mark @t.gravecmb;
+      pos base \Ka
+          <anchor 317 676> mark @t.gravecmb;
+      pos base \c.O
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \c.U
+          <anchor 304 676> mark @t.gravecmb;
+      pos base \Yeri
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \c.E
+          <anchor 283 676> mark @t.gravecmb;
+      pos base \Iu
+          <anchor 295 676> mark @t.gravecmb;
+      pos base \Ia
+          <anchor 314 676> mark @t.gravecmb;
+      pos base \c.Fita
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \c.Izhitsa
+          <anchor 304 676> mark @t.gravecmb;
+      pos base \Ustrt
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \Ustrtbar
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \c.AE
+          <anchor 420 676> mark @t.gravecmb;
+      pos base \c.Obar
+          <anchor 300 676> mark @t.gravecmb;
+      pos base \c.a
+          <anchor 320 507> mark @t.gravecmb;
+      pos base \ve
+          <anchor 320 507> mark @t.gravecmb;
+      pos base \ge
+          <anchor 349 507> mark @t.gravecmb;
+      pos base \de
+          <anchor 333 507> mark @t.gravecmb;
+      pos base \ie
+          <anchor 316 507> mark @t.gravecmb;
+      pos base \zhe
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \ze
+          <anchor 301 507> mark @t.gravecmb;
+      pos base \ii
+          <anchor 311 507> mark @t.gravecmb;
+      pos base \ka
+          <anchor 320 507> mark @t.gravecmb;
+      pos base \el
+          <anchor 344 507> mark @t.gravecmb;
+      pos base \em
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \en
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \c.o
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \c.pe
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \er
+          <anchor 321 507> mark @t.gravecmb;
+      pos base \es
+          <anchor 346 507> mark @t.gravecmb;
+      pos base \te
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \c.u
+          <anchor 304 507> mark @t.gravecmb;
+      pos base \tse
+          <anchor 303 507> mark @t.gravecmb;
+      pos base \che
+          <anchor 304 507> mark @t.gravecmb;
+      pos base \sha
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \shcha
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \hard
+          <anchor 240 507> mark @t.gravecmb;
+      pos base \yeri
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \soft
+          <anchor 169 507> mark @t.gravecmb;
+      pos base \c.e
+          <anchor 294 507> mark @t.gravecmb;
+      pos base \iu
+          <anchor 287 507> mark @t.gravecmb;
+      pos base \ia
+          <anchor 317 507> mark @t.gravecmb;
+      pos base \c.fita
+          <anchor 300 507> mark @t.gravecmb;
+      pos base \c.izhitsa
+          <anchor 310 507> mark @t.gravecmb;
+      pos base \uni0430.a
+          <anchor 304 507> mark @t.gravecmb;
+      pos base \BASE
+          <anchor 300 507> mark @t.gravecmb;
+ subtable;
+      markClass \anglesupnosp <anchor 300 507> @t.anglesupnosp;
+      pos base \BASE
+          <anchor 479 507> mark @t.anglesupnosp;
+ subtable;
+      markClass \cedillacmb <anchor 300 0> @b.cedillacmb;
+      markClass \uni0327.cap <anchor 300 0> @b.cedillacmb;
+      pos base \A
+          <anchor 520 0> mark @b.cedillacmb;
+      pos base \C
+          <anchor 350 0> mark @b.cedillacmb;
+      pos base \D
+          <anchor 286 0> mark @b.cedillacmb;
+      pos base \E
+          <anchor 326 0> mark @b.cedillacmb;
+      pos base \F
+          <anchor 170 0> mark @b.cedillacmb;
+      pos base \H
+          <anchor 122 0> mark @b.cedillacmb;
+      pos base \I
+          <anchor 300 0> mark @b.cedillacmb;
+      pos base \L
+          <anchor 349 0> mark @b.cedillacmb;
+      pos base \M
+          <anchor 486 0> mark @b.cedillacmb;
+      pos base \N
+          <anchor 473 0> mark @b.cedillacmb;
+      pos base \O
+          <anchor 300 0> mark @b.cedillacmb;
+      pos base \R
+          <anchor 137 0> mark @b.cedillacmb;
+      pos base \S
+          <anchor 319 0> mark @b.cedillacmb;
+      pos base \T
+          <anchor 300 0> mark @b.cedillacmb;
+      pos base \U
+          <anchor 300 0> mark @b.cedillacmb;
+      pos base \X
+          <anchor 495 0> mark @b.cedillacmb;
+      pos base \Z
+          <anchor 320 0> mark @b.cedillacmb;
+      pos base \a
+          <anchor 473 0> mark @b.cedillacmb;
+      pos base \c
+          <anchor 346 0> mark @b.cedillacmb;
+      pos base \d
+          <anchor 295 0> mark @b.cedillacmb;
+      pos base \e
+          <anchor 316 0> mark @b.cedillacmb;
+      pos base \f
+          <anchor 298 0> mark @b.cedillacmb;
+      pos base \h
+          <anchor 134 0> mark @b.cedillacmb;
+      pos base \i
+          <anchor 354 0> mark @b.cedillacmb;
+      pos base \l
+          <anchor 363 0> mark @b.cedillacmb;
+      pos base \m
+          <anchor 514 0> mark @b.cedillacmb;
+      pos base \n
+          <anchor 480 0> mark @b.cedillacmb;
+      pos base \o
+          <anchor 300 0> mark @b.cedillacmb;
+      pos base \r
+          <anchor 183 0> mark @b.cedillacmb;
+      pos base \s
+          <anchor 314 0> mark @b.cedillacmb;
+      pos base \t
+          <anchor 389 0> mark @b.cedillacmb;
+      pos base \u
+          <anchor 464 0> mark @b.cedillacmb;
+      pos base \x
+          <anchor 480 0> mark @b.cedillacmb;
+      pos base \z
+          <anchor 320 0> mark @b.cedillacmb;
+      pos base \AE
+          <anchor 464 0> mark @b.cedillacmb;
+      pos base \Oslash
+          <anchor 300 0> mark @b.cedillacmb;
+      pos base \OE
+          <anchor 452 0> mark @b.cedillacmb;
+      pos base \Schwa
+          <anchor 310 0> mark @b.cedillacmb;
+      pos base \ae
+          <anchor 449 0> mark @b.cedillacmb;
+      pos base \dotlessi
+          <anchor 354 0> mark @b.cedillacmb;
+      pos base \oslash
+          <anchor 300 0> mark @b.cedillacmb;
+      pos base \oe
+          <anchor 455 0> mark @b.cedillacmb;
+      pos base \cturn
+          <anchor 280 0> mark @b.cedillacmb;
+      pos base \ascript
+          <anchor 465 0> mark @b.cedillacmb;
+      pos base \schwa
+          <anchor 296 0> mark @b.cedillacmb;
+      pos base \eopen
+          <anchor 316 0> mark @b.cedillacmb;
+      pos base \ibar
+          <anchor 354 0> mark @b.cedillacmb;
+      pos base \ubar
+          <anchor 443 0> mark @b.cedillacmb;
+      pos base \a.a
+          <anchor 465 0> mark @b.cedillacmb;
+      pos base \i.a
+          <anchor 334 0> mark @b.cedillacmb;
+      pos base \dotlessi.a
+          <anchor 334 0> mark @b.cedillacmb;
+      pos base \uni0268.a
+          <anchor 334 0> mark @b.cedillacmb;
+      pos base \l.a
+          <anchor 334 0> mark @b.cedillacmb;
+      pos base \lslash.a
+          <anchor 334 0> mark @b.cedillacmb;
+      pos base \uni026B.a
+          <anchor 334 0> mark @b.cedillacmb;
+      pos base \BASE
+          <anchor 300 0> mark @b.cedillacmb;
+ subtable;
+      markClass \tackleftsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \tackrightsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \ringlefthalfsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \tackupsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \tackdownsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \plussubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \minussubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \dotsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \dotdblsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \ringsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \commasubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \vlinebelowcomb <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \bridgesubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \haceksubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \brevesubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \breveinvsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \tildesubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \macronsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \ringrighthalfsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \bridgeinvsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \squaresubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \seagullsubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      markClass \iotasubnosp <anchor 300 -20> @b.tackleftsubnosp;
+      pos base \A
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \B
+          <anchor 307 -20> mark @b.tackleftsubnosp;
+      pos base \C
+          <anchor 344 -20> mark @b.tackleftsubnosp;
+      pos base \D
+          <anchor 294 -20> mark @b.tackleftsubnosp;
+      pos base \E
+          <anchor 333 -20> mark @b.tackleftsubnosp;
+      pos base \F
+          <anchor 181 -20> mark @b.tackleftsubnosp;
+      pos base \G
+          <anchor 330 -20> mark @b.tackleftsubnosp;
+      pos base \H
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \I
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \J
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \K
+          <anchor 338 -20> mark @b.tackleftsubnosp;
+      pos base \L
+          <anchor 349 -20> mark @b.tackleftsubnosp;
+      pos base \M
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \N
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \O
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \P
+          <anchor 140 -20> mark @b.tackleftsubnosp;
+      pos base \R
+          <anchor 320 -20> mark @b.tackleftsubnosp;
+      pos base \S
+          <anchor 313 -20> mark @b.tackleftsubnosp;
+      pos base \T
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \U
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \V
+          <anchor 302 -20> mark @b.tackleftsubnosp;
+      pos base \W
+          <anchor 303 -20> mark @b.tackleftsubnosp;
+      pos base \X
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \Y
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \Z
+          <anchor 316 -20> mark @b.tackleftsubnosp;
+      pos base \a
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \b
+          <anchor 310 -20> mark @b.tackleftsubnosp;
+      pos base \c
+          <anchor 340 -20> mark @b.tackleftsubnosp;
+      pos base \d
+          <anchor 304 -20> mark @b.tackleftsubnosp;
+      pos base \e
+          <anchor 316 -20> mark @b.tackleftsubnosp;
+      pos base \f
+          <anchor 291 -20> mark @b.tackleftsubnosp;
+      pos base \g
+          <anchor 308 -219> mark @b.tackleftsubnosp;
+      pos base \h
+          <anchor 314 -20> mark @b.tackleftsubnosp;
+      pos base \i
+          <anchor 348 -20> mark @b.tackleftsubnosp;
+      pos base \j
+          <anchor 237 -219> mark @b.tackleftsubnosp;
+      pos base \k
+          <anchor 335 -20> mark @b.tackleftsubnosp;
+      pos base \l
+          <anchor 385 -20> mark @b.tackleftsubnosp;
+      pos base \m
+          <anchor 308 -20> mark @b.tackleftsubnosp;
+      pos base \n
+          <anchor 313 -20> mark @b.tackleftsubnosp;
+      pos base \o
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \p
+          <anchor 137 -219> mark @b.tackleftsubnosp;
+      pos base \q
+          <anchor 461 -219> mark @b.tackleftsubnosp;
+      pos base \r
+          <anchor 191 -20> mark @b.tackleftsubnosp;
+      pos base \s
+          <anchor 309 -20> mark @b.tackleftsubnosp;
+      pos base \t
+          <anchor 380 -20> mark @b.tackleftsubnosp;
+      pos base \u
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \v
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \w
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \x
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \y
+          <anchor 267 -219> mark @b.tackleftsubnosp;
+      pos base \z
+          <anchor 314 -20> mark @b.tackleftsubnosp;
+      pos base \AE
+          <anchor 336 -20> mark @b.tackleftsubnosp;
+      pos base \Dcroat
+          <anchor 290 -20> mark @b.tackleftsubnosp;
+      pos base \Lslash
+          <anchor 349 -20> mark @b.tackleftsubnosp;
+      pos base \Ohorn
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \Tbar
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \Uhorn
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \Eth
+          <anchor 290 -20> mark @b.tackleftsubnosp;
+      pos base \Schwa
+          <anchor 304 -20> mark @b.tackleftsubnosp;
+      pos base \Eng
+          <anchor 306 -20> mark @b.tackleftsubnosp;
+      pos base \ae
+          <anchor 309 -20> mark @b.tackleftsubnosp;
+      pos base \dcroat
+          <anchor 304 -20> mark @b.tackleftsubnosp;
+      pos base \dotlessi
+          <anchor 348 -20> mark @b.tackleftsubnosp;
+      pos base \lslash
+          <anchor 385 -20> mark @b.tackleftsubnosp;
+      pos base \ohorn
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \oslash
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \oe
+          <anchor 309 -20> mark @b.tackleftsubnosp;
+      pos base \tbar
+          <anchor 380 -20> mark @b.tackleftsubnosp;
+      pos base \uhorn
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \eth
+          <anchor 306 -20> mark @b.tackleftsubnosp;
+      pos base \thorn
+          <anchor 137 -219> mark @b.tackleftsubnosp;
+      pos base \eng
+          <anchor 361 -219> mark @b.tackleftsubnosp;
+      pos base \dotlessj
+          <anchor 237 -219> mark @b.tackleftsubnosp;
+      pos base \aturn
+          <anchor 306 -20> mark @b.tackleftsubnosp;
+      pos base \ascriptturn
+          <anchor 316 -20> mark @b.tackleftsubnosp;
+      pos base \bhook
+          <anchor 316 -20> mark @b.tackleftsubnosp;
+      pos base \cturn
+          <anchor 280 -20> mark @b.tackleftsubnosp;
+      pos base \ccurl
+          <anchor 360 -20> mark @b.tackleftsubnosp;
+      pos base \dtail
+          <anchor 307 -219> mark @b.tackleftsubnosp;
+      pos base \dhook
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \erev
+          <anchor 294 -20> mark @b.tackleftsubnosp;
+      pos base \ascript
+          <anchor 304 -20> mark @b.tackleftsubnosp;
+      pos base \Bsmallcap
+          <anchor 320 -20> mark @b.tackleftsubnosp;
+      pos base \schwa
+          <anchor 296 -20> mark @b.tackleftsubnosp;
+      pos base \schwahook
+          <anchor 225 -20> mark @b.tackleftsubnosp;
+      pos base \eopen
+          <anchor 316 -20> mark @b.tackleftsubnosp;
+      pos base \epsilon1rev
+          <anchor 287 -20> mark @b.tackleftsubnosp;
+      pos base \epsilon1revclosed
+          <anchor 301 -20> mark @b.tackleftsubnosp;
+      pos base \fturned
+          <anchor 237 -219> mark @b.tackleftsubnosp;
+      pos base \ghook
+          <anchor 294 -219> mark @b.tackleftsubnosp;
+      pos base \gscript
+          <anchor 294 -219> mark @b.tackleftsubnosp;
+      pos base \Gsmall
+          <anchor 326 -20> mark @b.tackleftsubnosp;
+      pos base \gamma1
+          <anchor 300 -93> mark @b.tackleftsubnosp;
+      pos base \ramshorn
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \hturn
+          <anchor 353 -93> mark @b.tackleftsubnosp;
+      pos base \hhook
+          <anchor 316 -20> mark @b.tackleftsubnosp;
+      pos base \henghook
+          <anchor 361 -219> mark @b.tackleftsubnosp;
+      pos base \Hsmall
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \ibar
+          <anchor 348 -20> mark @b.tackleftsubnosp;
+      pos base \Ismall
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \jcurl
+          <anchor 223 -219> mark @b.tackleftsubnosp;
+      pos base \kturn
+          <anchor 450 -219> mark @b.tackleftsubnosp;
+      pos base \lwavybar
+          <anchor 385 -20> mark @b.tackleftsubnosp;
+      pos base \lbelt
+          <anchor 385 -20> mark @b.tackleftsubnosp;
+      pos base \lrthook
+          <anchor 385 -219> mark @b.tackleftsubnosp;
+      pos base \lezh
+          <anchor 357 -219> mark @b.tackleftsubnosp;
+      pos base \Lsmall
+          <anchor 343 -20> mark @b.tackleftsubnosp;
+      pos base \mturn
+          <anchor 294 -20> mark @b.tackleftsubnosp;
+      pos base \mturndescend
+          <anchor 496 -226> mark @b.tackleftsubnosp;
+      pos base \mhook
+          <anchor 304 -219> mark @b.tackleftsubnosp;
+      pos base \nhookleft
+          <anchor 174 -219> mark @b.tackleftsubnosp;
+      pos base \nrthook
+          <anchor 430 -219> mark @b.tackleftsubnosp;
+      pos base \Nsmallcap
+          <anchor 302 -20> mark @b.tackleftsubnosp;
+      pos base \obar
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \Oesmall
+          <anchor 350 -20> mark @b.tackleftsubnosp;
+      pos base \phiLatin
+          <anchor 300 -219> mark @b.tackleftsubnosp;
+      pos base \rturn
+          <anchor 271 -20> mark @b.tackleftsubnosp;
+      pos base \rturnascend
+          <anchor 271 -20> mark @b.tackleftsubnosp;
+      pos base \rhookturned
+          <anchor 304 -219> mark @b.tackleftsubnosp;
+      pos base \rhook
+          <anchor 328 -219> mark @b.tackleftsubnosp;
+      pos base \rfishhook
+          <anchor 191 -20> mark @b.tackleftsubnosp;
+      pos base \Rsmallcap
+          <anchor 316 -20> mark @b.tackleftsubnosp;
+      pos base \Rsmallcapinv
+          <anchor 304 -20> mark @b.tackleftsubnosp;
+      pos base \shook
+          <anchor 310 -219> mark @b.tackleftsubnosp;
+      pos base \esh
+          <anchor 256 -219> mark @b.tackleftsubnosp;
+      pos base \eshbar
+          <anchor 256 -219> mark @b.tackleftsubnosp;
+      pos base \tturn
+          <anchor 352 -72> mark @b.tackleftsubnosp;
+      pos base \trthook
+          <anchor 380 -219> mark @b.tackleftsubnosp;
+      pos base \ubar
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \upsilonLatin
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \vhook
+          <anchor 303 -20> mark @b.tackleftsubnosp;
+      pos base \vturn
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \wturn
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \yturn
+          <anchor 306 -20> mark @b.tackleftsubnosp;
+      pos base \Ysmallcap
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \ezh
+          <anchor 286 -226> mark @b.tackleftsubnosp;
+      pos base \dezh
+          <anchor 330 -219> mark @b.tackleftsubnosp;
+      pos base \ts
+          <anchor 334 -20> mark @b.tackleftsubnosp;
+      pos base \tesh
+          <anchor 331 -219> mark @b.tackleftsubnosp;
+      pos base \glottal
+          <anchor 279 -20> mark @b.tackleftsubnosp;
+      pos base \glottalreversed
+          <anchor 320 -20> mark @b.tackleftsubnosp;
+      pos base \glottalbar
+          <anchor 279 -20> mark @b.tackleftsubnosp;
+      pos base \glottalstopbarrev
+          <anchor 320 -20> mark @b.tackleftsubnosp;
+      pos base \a.a
+          <anchor 304 -20> mark @b.tackleftsubnosp;
+      pos base \g.a
+          <anchor 294 -219> mark @b.tackleftsubnosp;
+      pos base \i.a
+          <anchor 328 -20> mark @b.tackleftsubnosp;
+      pos base \dotlessi.a
+          <anchor 328 -20> mark @b.tackleftsubnosp;
+      pos base \uni0268.a
+          <anchor 328 -20> mark @b.tackleftsubnosp;
+      pos base \uni0268.d
+          <anchor 348 -20> mark @b.tackleftsubnosp;
+      pos base \uni0268.da
+          <anchor 328 -20> mark @b.tackleftsubnosp;
+      pos base \uni029D.d
+          <anchor 223 -219> mark @b.tackleftsubnosp;
+      pos base \l.a
+          <anchor 328 -20> mark @b.tackleftsubnosp;
+      pos base \lslash.a
+          <anchor 328 -20> mark @b.tackleftsubnosp;
+      pos base \uni026B.a
+          <anchor 328 -20> mark @b.tackleftsubnosp;
+      pos base \uni026C.a
+          <anchor 328 -20> mark @b.tackleftsubnosp;
+      pos base \Alpha
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \Eta
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \Omegagreek
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \alpha
+          <anchor 278 -20> mark @b.tackleftsubnosp;
+      pos base \eta
+          <anchor 135 -20> mark @b.tackleftsubnosp;
+      pos base \omega
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+      pos base \BASE
+          <anchor 300 -20> mark @b.tackleftsubnosp;
+ subtable;
+      markClass \wavybarcomb <anchor 300 244> @m.wavybarcomb;
+      pos base \L
+          <anchor 176 337> mark @m.wavybarcomb;
+      pos base \l
+          <anchor 288 385> mark @m.wavybarcomb;
+      pos base \l.a
+          <anchor 337 385> mark @m.wavybarcomb;
+      pos base \BASE
+          <anchor 300 244> mark @m.wavybarcomb;
+ subtable;
+      markClass \horncmb <anchor 300 486> @t.horncmb;
+      pos base \O
+          <anchor 420 646> mark @t.horncmb;
+      pos base \U
+          <anchor 503 666> mark @t.horncmb;
+      pos base \o
+          <anchor 411 486> mark @t.horncmb;
+      pos base \BASE
+          <anchor 415 486> mark @t.horncmb;
+ subtable;
+      markClass \ogonekcmb <anchor 300 0> @b.ogonekcmb;
+      markClass \uni0328.cap <anchor 300 0> @b.ogonekcmb;
+      pos base \A
+          <anchor 504 0> mark @b.ogonekcmb;
+      pos base \E
+          <anchor 430 0> mark @b.ogonekcmb;
+      pos base \I
+          <anchor 300 0> mark @b.ogonekcmb;
+      pos base \O
+          <anchor 300 0> mark @b.ogonekcmb;
+      pos base \U
+          <anchor 300 0> mark @b.ogonekcmb;
+      pos base \Y
+          <anchor 300 0> mark @b.ogonekcmb;
+      pos base \a
+          <anchor 436 0> mark @b.ogonekcmb;
+      pos base \e
+          <anchor 404 0> mark @b.ogonekcmb;
+      pos base \i
+          <anchor 356 0> mark @b.ogonekcmb;
+      pos base \o
+          <anchor 300 0> mark @b.ogonekcmb;
+      pos base \u
+          <anchor 426 0> mark @b.ogonekcmb;
+      pos base \y
+          <anchor 262 -105> mark @b.ogonekcmb;
+      pos base \Aacute
+          <anchor 504 0> mark @b.ogonekcmb;
+      pos base \Adieresis
+          <anchor 504 0> mark @b.ogonekcmb;
+      pos base \Aring
+          <anchor 504 0> mark @b.ogonekcmb;
+      pos base \Eacute
+          <anchor 429 0> mark @b.ogonekcmb;
+      pos base \Odieresis
+          <anchor 300 0> mark @b.ogonekcmb;
+      pos base \Schwa
+          <anchor 310 0> mark @b.ogonekcmb;
+      pos base \aacute
+          <anchor 436 0> mark @b.ogonekcmb;
+      pos base \adieresis
+          <anchor 436 0> mark @b.ogonekcmb;
+      pos base \aring
+          <anchor 436 0> mark @b.ogonekcmb;
+      pos base \eacute
+          <anchor 404 0> mark @b.ogonekcmb;
+      pos base \dotlessi
+          <anchor 356 0> mark @b.ogonekcmb;
+      pos base \odieresis
+          <anchor 300 0> mark @b.ogonekcmb;
+      pos base \schwa
+          <anchor 296 0> mark @b.ogonekcmb;
+      pos base \a.a
+          <anchor 430 0> mark @b.ogonekcmb;
+      pos base \aacute.a
+          <anchor 430 0> mark @b.ogonekcmb;
+      pos base \adieresis.a
+          <anchor 430 0> mark @b.ogonekcmb;
+      pos base \aring.a
+          <anchor 430 0> mark @b.ogonekcmb;
+      pos base \i.a
+          <anchor 336 0> mark @b.ogonekcmb;
+      pos base \dotlessi.a
+          <anchor 336 0> mark @b.ogonekcmb;
+      pos base \BASE
+          <anchor 300 0> mark @b.ogonekcmb;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} mark;
+feature ccmp {
+# GSUB+GPOS feature: Glyph Composition / Decomposition
+# Lookups: 7
+
+  lookup ccmp_4 {
+    # GSUB lookup 75, type 14 (Ligature)
+ sub \i \ogonekcmb by \iogonek.d;
+ sub \i.a \ogonekcmb by \iogonek.da;
+  } ccmp_4;
+
+  lookup ccmp_2 {
+    # GSUB lookup 16, type 12 (Multiple)
+ sub \Ecircumflex by \E \circumflexcmb;
+ sub \Emacron by \E \macroncmb;
+ sub \Ocircumflex by \O \circumflexcmb;
+ sub \Omacron by \O \macroncmb;
+ sub \ecircumflex by \e \circumflexcmb;
+ sub \emacron by \e \macroncmb;
+ sub \ocircumflex by \o \circumflexcmb;
+ sub \omacron by \o \macroncmb;
+ sub \Yi by \I \dieresiscmb;
+ sub \yi by \dotlessi \dieresiscmb;
+  } ccmp_2;
+
+  lookup ccmp_9 {
+    # GPOS lookup 1, type 1 (Single adjustment)
+ pos \breveinverteddoublecmb <0 80 0 -80>;
+  } ccmp_9;
+
+  lookup ccmp_11 {
+    # GPOS lookup 2, type 1 (Single adjustment)
+ pos \dblwidemacronbelowcomb <0 -140 0 140>;
+  } ccmp_11;
+
+ sub [\Ecircumflex \Ocircumflex \ecircumflex \ocircumflex]' lookup ccmp_2  \brevecmb;
+ subtable;
+ sub [\Emacron \Omacron \emacron \omacron]' lookup ccmp_2  \acutecmb;
+ subtable;
+ sub [\Yi \yi]' lookup ccmp_2  \acutecmb;
+ subtable;
+ sub \i' lookup ccmp_4  \ogonekcmb' @ccmp2 ;
+ subtable;
+ sub \i.a' lookup ccmp_4  \ogonekcmb' @ccmp2 ;
+ subtable;
+ sub [\i \j \iogonek \ibar \jcurl \iogonek.a]' lookup calt_ccmp_frac_1  @ccmp2 ;
+ subtable;
+ sub \circumflexcmb \gravecmb by \uni03020300;
+ sub \circumflexcmb \acutecmb by \uni03020301;
+ sub \circumflexcmb \tildecmb by \uni03020303;
+ sub \circumflexcmb \brevecmb by \uni03020306;
+ sub \circumflexcmb \hookcmb by \uni03020309;
+ sub \brevecmb \gravecmb by \uni03060300;
+ sub \brevecmb \acutecmb by \uni03060301;
+ sub \brevecmb \tildecmb by \uni03060303;
+ sub \brevecmb \hookcmb by \uni03060309;
+ sub \brevecmb \perispomenicomb by \uni03060303;
+ sub \dieresiscmb \gravecmb by \uni03080300;
+ sub \dieresiscmb \uni0300.g by \uni03080300.g;
+ sub \dieresiscmb \acutecmb by \uni03080301;
+ sub \dieresiscmb \uni0301.g by \uni03080301.g;
+ sub \dieresiscmb \tildecmb by \uni03080303;
+ sub \dieresiscmb \macroncmb by \uni03080304;
+ sub \dieresiscmb \caroncmb by \uni0308030C;
+ sub \dieresiscmb \perispomenicomb by \uni03080303;
+ sub \uni0312.g \gravecmb by \uni03120300;
+ sub \uni0312.g \uni0300.g by \uni03120300;
+ sub \uni0312.g \acutecmb by \uni03120301;
+ sub \uni0312.g \uni0301.g by \uni03120301;
+ sub \uni0312.g \tildecmb by \uni03120303;
+ sub \uni0312.g \perispomenicomb by \uni03120303;
+ sub \uni0313.g \gravecmb by \uni03130300;
+ sub \uni0313.g \uni0300.g by \uni03130300;
+ sub \uni0313.g \acutecmb by \uni03130301;
+ sub \uni0313.g \uni0301.g by \uni03130301;
+ sub \uni0313.g \tildecmb by \uni03130303;
+ sub \uni0313.g \perispomenicomb by \uni03130303;
+ subtable;
+ sub \A \ogonekcmb by \Aogonek;
+ sub \E \ogonekcmb by \Eogonek;
+ sub \G \tildecmb by \uni00470303;
+ sub \I \ogonekcmb by \Iogonek;
+ sub \L \periodcentered \L by \uni004C00B7004C;
+ sub \O \ogonekcmb by \Oogonek;
+ sub \U \ogonekcmb by \Uogonek;
+ sub \a \ogonekcmb by \aogonek;
+ sub \d \caroncmb by \dcaron;
+ sub \e \ogonekcmb by \eogonek;
+ sub \g \tildecmb by \uni00670303;
+ sub \g \cedillacmb by \gcedilla;
+ sub \i \ogonekcmb by \iogonek;
+ sub \l \periodcentered \l by \uni006C00B7006C;
+ sub \l \caroncmb by \lcaron;
+ sub \o \ogonekcmb by \oogonek;
+ sub \t \caroncmb by \tcaron;
+ sub \u \ogonekcmb by \uogonek;
+ sub \IJ \acutecmb by \uni01320301;
+ sub \ij \acutecmb by \uni01330301;
+ sub \g.a \cedillacmb by \uni0123.a;
+ subtable;
+ sub @ccmp3  @ccmp ' lookup calt_ccmp_frac_1 ;
+ subtable;
+ sub @ccmp4  @ccmp ' lookup calt_ccmp_frac_1 ;
+ pos @ccmp5  \breveinverteddoublecmb' lookup ccmp_9 ;
+ subtable;
+ pos \breveinverteddoublecmb' lookup ccmp_9  @ccmp5 ;
+ subtable;
+ pos @ccmp6  \dblwidemacronbelowcomb' lookup ccmp_11 ;
+ subtable;
+ pos \dblwidemacronbelowcomb' lookup ccmp_11  @ccmp6 ;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} ccmp;
+feature ordn {
+# GSUB feature: Ordinals
+# Lookups: 1
+
+      lookup ordn_sups_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} ordn;
+feature onum {
+# GSUB feature: Oldstyle Figures
+# Lookups: 1
+
+ sub @onum  by @onum2 ;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} onum;
+feature case {
+# GSUB feature: Case-Sensitive Forms
+# Lookups: 1
+
+ sub @case  by @case2 ;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} case;
+feature mkmk {
+# GPOS feature: Mark to Mark Positioning
+# Lookups: 1
+
+  lookup mkmk_1 {
+    # GPOS lookup 14, type 6 (MarkToMark attachment)
+      lookupflag 256;
+      markClass \gravecmb <anchor 300 507> @m.gravecmb;
+      markClass \uni0300.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni0300.g <anchor 300 507> @m.gravecmb;
+      markClass \acutecmb <anchor 300 507> @m.gravecmb;
+      markClass \uni0301.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni0301.g <anchor 300 507> @m.gravecmb;
+      markClass \circumflexcmb <anchor 300 507> @m.gravecmb;
+      markClass \uni0302.cap <anchor 300 676> @m.gravecmb;
+      markClass \tildecmb <anchor 300 507> @m.gravecmb;
+      markClass \uni0303.cap <anchor 300 676> @m.gravecmb;
+      markClass \macroncmb <anchor 300 507> @m.gravecmb;
+      markClass \uni0304.cap <anchor 300 676> @m.gravecmb;
+      markClass \overlinecmb <anchor 300 507> @m.gravecmb;
+      markClass \uni0305.cap <anchor 300 676> @m.gravecmb;
+      markClass \brevecmb <anchor 300 507> @m.gravecmb;
+      markClass \uni0306.c <anchor 300 507> @m.gravecmb;
+      markClass \uni0306.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni0306.ccap <anchor 300 676> @m.gravecmb;
+      markClass \dotnosp <anchor 300 507> @m.gravecmb;
+      markClass \uni0307.cap <anchor 300 676> @m.gravecmb;
+      markClass \dieresiscmb <anchor 300 507> @m.gravecmb;
+      markClass \uni0308.cap <anchor 300 676> @m.gravecmb;
+      markClass \hookcmb <anchor 300 507> @m.gravecmb;
+      markClass \uni0309.cap <anchor 300 676> @m.gravecmb;
+      markClass \candrabinducmb <anchor 300 507> @m.gravecmb;
+      markClass \uni0310.cap <anchor 300 676> @m.gravecmb;
+      markClass \ringcmb <anchor 300 507> @m.gravecmb;
+      markClass \uni030A.cap <anchor 300 676> @m.gravecmb;
+      markClass \acutedblnosp <anchor 300 507> @m.gravecmb;
+      markClass \uni030B.cap <anchor 300 676> @m.gravecmb;
+      markClass \caroncmb <anchor 300 507> @m.gravecmb;
+      markClass \uni030C.cap <anchor 300 676> @m.gravecmb;
+      markClass \dblgravecmb <anchor 300 507> @m.gravecmb;
+      markClass \uni030F.cap <anchor 300 676> @m.gravecmb;
+      markClass \breveinvnosp <anchor 300 507> @m.gravecmb;
+      markClass \uni0311.cap <anchor 300 676> @m.gravecmb;
+      markClass \commaturnsupnosp <anchor 300 507> @m.gravecmb;
+      markClass \uni0312.g <anchor 300 507> @m.gravecmb;
+      markClass \commaabovecmb <anchor 300 507> @m.gravecmb;
+      markClass \uni0313.g <anchor 300 507> @m.gravecmb;
+      markClass \uni0326.a <anchor 300 507> @m.gravecmb;
+      markClass \xsupnosp <anchor 300 507> @m.gravecmb;
+      markClass \perispomenicomb <anchor 300 507> @m.gravecmb;
+      markClass \uni0342.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03080301 <anchor 300 507> @m.gravecmb;
+      markClass \uni03080301.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03080301.g <anchor 300 507> @m.gravecmb;
+      markClass \uni03080300 <anchor 300 507> @m.gravecmb;
+      markClass \uni03080300.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03080300.g <anchor 300 507> @m.gravecmb;
+      markClass \uni03080303 <anchor 300 507> @m.gravecmb;
+      markClass \uni03080304 <anchor 300 507> @m.gravecmb;
+      markClass \uni03080304.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni0308030C <anchor 300 507> @m.gravecmb;
+      markClass \uni0308030C.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03020301 <anchor 300 507> @m.gravecmb;
+      markClass \uni03020301.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03020300 <anchor 300 507> @m.gravecmb;
+      markClass \uni03020300.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03020309 <anchor 300 507> @m.gravecmb;
+      markClass \uni03020309.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03020303 <anchor 300 507> @m.gravecmb;
+      markClass \uni03020303.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03060301 <anchor 300 507> @m.gravecmb;
+      markClass \uni03060301.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03060300 <anchor 300 507> @m.gravecmb;
+      markClass \uni03060300.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03060309 <anchor 300 507> @m.gravecmb;
+      markClass \uni03060309.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03060303 <anchor 300 507> @m.gravecmb;
+      markClass \uni03060303.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03020306 <anchor 300 507> @m.gravecmb;
+      markClass \uni03020306.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03040301 <anchor 300 507> @m.gravecmb;
+      markClass \uni03040301.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni030C0307 <anchor 300 507> @m.gravecmb;
+      markClass \uni030C0307.cap <anchor 300 676> @m.gravecmb;
+      markClass \uni03120301 <anchor 300 507> @m.gravecmb;
+      markClass \uni03120300 <anchor 300 507> @m.gravecmb;
+      markClass \uni03120303 <anchor 300 507> @m.gravecmb;
+      markClass \uni03130301 <anchor 300 507> @m.gravecmb;
+      markClass \uni03130300 <anchor 300 507> @m.gravecmb;
+      markClass \uni03130303 <anchor 300 507> @m.gravecmb;
+      pos mark \gravecmb
+          <anchor 300 618> mark @m.gravecmb;
+      pos mark \acutecmb
+          <anchor 300 618> mark @m.gravecmb;
+      pos mark \circumflexcmb
+          <anchor 300 732> mark @m.gravecmb;
+      pos mark \tildecmb
+          <anchor 300 588> mark @m.gravecmb;
+      pos mark \macroncmb
+          <anchor 300 574> mark @m.gravecmb;
+      pos mark \overlinecmb
+          <anchor 300 574> mark @m.gravecmb;
+      pos mark \brevecmb
+          <anchor 300 588> mark @m.gravecmb;
+      pos mark \uni0306.c
+          <anchor 300 588> mark @m.gravecmb;
+      pos mark \dotnosp
+          <anchor 300 709> mark @m.gravecmb;
+      pos mark \dieresiscmb
+          <anchor 300 617> mark @m.gravecmb;
+      pos mark \hookcmb
+          <anchor 300 603> mark @m.gravecmb;
+      pos mark \ringcmb
+          <anchor 300 596> mark @m.gravecmb;
+  } mkmk_1;
+
+      lookup mkmk_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} mkmk;
+feature frac {
+# GSUB+GPOS feature: Fractions
+# Lookups: 5
+
+      lookup frac_numr_1;
+ sub \slash by \slash.frac;
+ subtable;
+ sub @frac2  [\space \space_]' lookup calt_ccmp_frac_1 ;
+ subtable;
+ sub @frac3  @frac ' lookup calt_ccmp_frac_1 ;
+ subtable;
+ sub @frac4  [\space.frac \nbspace.frac] @frac ' lookup calt_ccmp_frac_1 ;
+ pos [\fraction \slashmath \slash.frac] <-300 0 -600 0>;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} frac;
+feature dnom {
+# GSUB feature: Denominators
+# Lookups: 1
+
+ sub @dnom_frac_numr_sinf_subs_sups  by @dnom ;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} dnom;
+feature sups {
+# GSUB feature: Superscript
+# Lookups: 3
+
+      lookup ordn_sups_1;
+ sub @dnom_frac_numr_sinf_subs_sups  by @sups ;
+ subtable;
+ sub [\colon \hyphen \endash \emdash] by [\colon.sups \hyphen.sups \endash.sups \emdash.sups];
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} sups;
+feature sinf {
+# GSUB feature: Scientific Inferiors
+# Lookups: 1
+
+      lookup sinf_subs_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} sinf;
+feature subs {
+# GSUB feature: Subscript
+# Lookups: 1
+
+      lookup sinf_subs_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} subs;
+feature ss07 {
+# GSUB feature: Stylistic Set 7
+# Lookups: 1
+
+      lookup salt_ss07_1;
+  script latn; # Latin
+    language ATH ; # Athapaskan
+    language NSM ; # Northern Sami
+    language SKS ; # Skolt Sami
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+  script grek; # Greek
+  script zinh;
+  script zyyy;
+} ss07;
+feature liga {
+  sub \exclam \equal by \opNotEqual;
+  sub \equal \equal by \opEqual;
+  sub \equal \greater by \opLambda;
+  sub \plus \plus by \opIncrem;
+  sub \hyphen \hyphen by \opDecrem;
+  sub \plus \equal by \opPlusEq;
+  sub \hyphen \equal by \opMinusEq;
+  sub \asterisk \equal by \opMultEq;
+  sub \slash \equal by \opDivEq;
+  sub \question \question by \opDblQuestion;
+  sub \question \bracketleft by \opNullArray;
+  sub \bracketleft \bracketright by \opEmptyArray;
+  sub \bar \bar by \opLogOr;
+  sub \ampersand \ampersand by \opLogAnd;
+  sub \less \equal by \opLessEq1;
+  sub \greater \equal by \opGreaterEq1;
+  sub \slash \greater by \opXmlClose;
+  sub \less \slash by \opXmlEnd;
+  sub \parenleft \parenright by \opEmptyParen;
+  sub \question \period by \opNullMember;
+  sub \slash \asterisk by \opCommentStart;
+  sub \asterisk \slash by \opCommentEnd;
+  #sub \quotedbl \quotedbl by \opEmptyString;
+} liga;
+
+
+
+
+
+
+
+feature clig {
+  ignore sub slash slash' slash' slash';
+  ignore sub slash' slash' slash' slash;
+  sub slash' slash' slash' by opXmlComment;
+  ignore sub slash slash' slash';
+  #ignore sub colon slash' slash';
+  sub slash' slash' by opComment;
+} clig;

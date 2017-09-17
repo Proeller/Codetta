@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02832988-DA0B-461E-B95D-63C2658FF1FB}"
+	ProjectSection(SolutionItems) = preProject
+		Coda-Bold.ttf = Coda-Bold.ttf
+		Coda-Bold.vfb = Coda-Bold.vfb
+		Coda-Bold.vfc = Coda-Bold.vfc
+		Coda-BoldItalic.ttf = Coda-BoldItalic.ttf
+		Coda-BoldItalic.vfb = Coda-BoldItalic.vfb
+		Coda-BoldItalic.vfc = Coda-BoldItalic.vfc
+		Coda-Italic.ttf = Coda-Italic.ttf
+		Coda-Italic.vfb = Coda-Italic.vfb
+		Coda-Italic.vfc = Coda-Italic.vfc
+		Coda-Regular.ttf = Coda-Regular.ttf
+		Coda-Regular.vfb = Coda-Regular.vfb
+		Coda-Regular.vfc = Coda-Regular.vfc
+		coda.fea = coda.fea
+		License.txt = License.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{48BFBFD7-79F3-4D9A-A9AC-CFFD4BAEF907}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "release", "release", "{C54E1359-7A3C-4154-BFD3-50CAB03AD8C5}"
+	ProjectSection(SolutionItems) = preProject
+		release\Coda_1.4.zip = release\Coda_1.4.zip
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{2CA8C292-D758-4C4C-B946-275EE884FC7B}"
+	ProjectSection(SolutionItems) = preProject
+		doc\Coda.png = doc\Coda.png
+		doc\Consolas.png = doc\Consolas.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48BFBFD7-79F3-4D9A-A9AC-CFFD4BAEF907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BFBFD7-79F3-4D9A-A9AC-CFFD4BAEF907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BFBFD7-79F3-4D9A-A9AC-CFFD4BAEF907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BFBFD7-79F3-4D9A-A9AC-CFFD4BAEF907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C54E1359-7A3C-4154-BFD3-50CAB03AD8C5} = {02832988-DA0B-461E-B95D-63C2658FF1FB}
+		{2CA8C292-D758-4C4C-B946-275EE884FC7B} = {02832988-DA0B-461E-B95D-63C2658FF1FB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F384D9B1-65D7-4CEE-A68E-F4C963FD3770}
+	EndGlobalSection
+EndGlobal
