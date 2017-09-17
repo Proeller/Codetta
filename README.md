@@ -16,13 +16,13 @@ C# programmers usually work with Microsoft Visual Studio which comes with the Co
 
 **Coda** ist based on the Abobe's open source font [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro) but strongly revised to meet the compactness and space efficiency of the Consolas.  
 
-[**Download Coda Font Family v1.4**](https://github.com/proeller/Coda/release/Coda_1.4.zip)
+[**Download Coda Font Family v1.4**](https://github.com/proeller/Coda/blob/master/release/Coda_1.4.zip)
 
 #### Coda
-![Coda Sample](coda.png?raw=true)
+![Coda Sample](https://github.com/proeller/Coda/blob/master/doc/coda.png?raw=true)
 
 #### Consolas
-![Consolas Sample](consolas.png?raw=true)
+![Consolas Sample](https://github.com/proeller/Coda/blob/master/doc/consolas.png?raw=true)
 
 
 ### Credits
