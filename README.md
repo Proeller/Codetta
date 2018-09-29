@@ -1,8 +1,9 @@
 # Codetta 
 ## A monospaced coding font with special ligatures for C#.
+### Version 2.0 / September 2018
 
 The C# programming language uses a lot of character pairs to form special operators like two plus glyphs '++' to increment a value, two equal glyphs '==' to check for equality or the equal and greater glyph '=>' for the lambda operator.
-**Codetta** combines these and 21 further combinations to [ligatures](https://en.wikipedia.org/wiki/Typographic_ligature) to improve code readability and productivity.
+**Codetta** combines these and 8 further combinations to [ligatures](https://en.wikipedia.org/wiki/Typographic_ligature) to improve code readability and productivity.
 
 But first and foremost, **Codetta** must meet several requirements to be a great coding font:
 + It must be monospaced, that means, all characters have the same width.
@@ -16,11 +17,11 @@ C# programmers usually work with Microsoft Visual Studio which comes with the Co
 
 Starting point in the development of *Codetta* was Abobe's open source font [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro). The font metrics and most of the glyphs were strongly revised to meet the compactness and space efficiency of Consolas. Care was taken, that the font looks good at typically used font sizes (9 pt., 10 pt.) in Visual Studio and that the font works well with ClearType.
 
-The width of the ligatures is double the size of a regular character (triple in case of the Xml-Comment '///'). This guaranties that any code formatting is preserved when switching from a font without ligatures to *Codetta*. Nevertheless, *Codetta* can help saving space, because ligatures, which always start or terminate a clause are shifted left or right respectively, so that leading or trailing blanks can be omitted and the code is still easily readable.
+The width of the ligatures is double the size of a regular character. This guaranties that any code formatting is preserved when switching from a font without ligatures to *Codetta*. Nevertheless, *Codetta* can help saving space, because ligatures, which always start or terminate a clause are shifted left or right respectively, so that leading or trailing blanks can be omitted and the code is still easily readable.
 
 Of course, *Codetta* doesn't change anything in your code. Switching from a normal font like Consolas to *Codetta* just changes the visual representation of the code. When someone else opens your code without having *Codetta* installed on his machine, he sees the regular code. 
 
-[**Download Codetta Font Family v1.0**](https://github.com/proeller/Codetta/blob/master/release/Codetta_1.0.zip?raw=true)
+[**Download Codetta Font Family v2.0**](https://github.com/proeller/Codetta/blob/master/release/Codetta_2.0.zip?raw=true)
 
 
 ### Samples
@@ -38,4 +39,7 @@ Ligatures, which are starting with a hyphen ('--' or '-=') are not shown in Micr
 
 ### Credits
 This typeface is based on [Source Code Pro](https://github.com/adobe-fonts/source-code-pro).
+
+### Changes from 1.0 to 2.0
+A number of ligatures (+= -= *= /= /* // /// == ?? ?. () [] || &&) was removed because they weren't usesful. The remaining ligatures however improved the code readabillity.
 

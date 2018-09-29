@@ -26,6 +26,9 @@ namespace Test
             char[] bytes = {'a', 'b'};
             string test = $"Test {bytes} string";
             foreach (var ch in bytes.Where(b => b!='c' && b <= 'o' || b > 'z')) { }
+
+            var c2 = new Class2();
+            c2.DoSomething();
         }
     }
 
@@ -33,11 +36,13 @@ namespace Test
     {
         public void DoSomething()
         {
-            Console.WriteLine(Class1.ProgramName); // 1 l I 
+            Console.WriteLine("1 2 3 4 5 6 7 8 9 0 "); // 1 l I 
         }
     }
     /* // /// == != += -= *= /= => <= >= -- ++ */
     /*
        () [] ?? ?. ?[ </ /> || &&
      */
+
+    !=  =>  ++ --  <=  >=  />  </  */  
 }
