@@ -41,5 +41,5 @@ Ligatures, which are starting with a hyphen ('--' or '-=') are not shown in Micr
 This typeface is based on [Source Code Pro](https://github.com/adobe-fonts/source-code-pro).
 
 ### Changes from 1.0 to 2.0
-A number of ligatures (+= -= *= /= /* // /// == ?? ?. () [] || &&) was removed because they weren't usesful. The remaining ligatures however improved the code readabillity.
+A number of ligatures (+= -= *= /= /* // /// == ?? ?. () [] || &&) was removed because they didn't prove to be useful in daily work. The remaining ligatures however have shown that they improve the code readabillity.
 
